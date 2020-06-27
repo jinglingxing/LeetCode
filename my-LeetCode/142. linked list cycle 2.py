@@ -46,6 +46,7 @@ Can you solve it without using extra space?
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def detectCycle(self, head: ListNode) -> ListNode:
         try:
